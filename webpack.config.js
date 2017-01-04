@@ -2,7 +2,7 @@ module.exports = {
   entry: './frontend/todo_redux.jsx',
   output: {
     path: './',
-    filename: 'bundle.js',
+    filename: './Todos/app/assets/javascripts/bundle.js',
   },
   module: {
     loaders: [
